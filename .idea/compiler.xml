@@ -9,5 +9,10 @@
         <module name="FancyUI" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FancyUI-core" target="18" />
+      <module name="FancyUI-test" target="18" />
+      <module name="FancyUI-yoga" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
